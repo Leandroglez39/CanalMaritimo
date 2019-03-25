@@ -1,5 +1,14 @@
-# CanalMaritimo
-Simulación 
+# Canal Maritimo
 ## Integrante
-  ### Leandro González Montesino
-  Grupo 411
+	Leandro Gonzalez Montesino 411
+
+Requisitos:
+
+    python3
+    ***import numpy as np
+    ***from binarytree import heapq
+
+
+Ejecutar:
+
+    python3 Canal.py
